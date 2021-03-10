@@ -1,0 +1,21 @@
+- Diagramm in frame einfügen
+    (-> Idee: Diagramm direkt nach Erstellung als Bild speichern -> einfügen)
+- für I0... die Werte, die in den txt Datein sind nehmen (bei Diagramm)
+    -> dabei beachten, dass das erst nach der Eingabe geschieht (Child, Parent?)
+- vsc mit GitHub verbinden
+- counter(von Luisa) in meins rein bekommen
+    (-> daraus ein Diagramm basteln)
+    (-> immer wieder counter abrufen)
+- Luisas in frame1 bekommen
+- schauen, wie Luisa die txt Dateien abruft
+    -> Luisa aus txt abrufen, nachdem erneuert
+- Programme gleichzeitig laufen lassen
+- threads gleichzeitig laufen lassen
+- txt Datei nach beschreiben verschieben
+    -> txt nach Zwischenspeicher verschieben
+    -> threads umschreiben: immer schauen, ob Datei im Zwischenpeicher ist
+- Luias und Diagramm anpassen
+    -> Luisa nach bestimmer Zeit ablesen (z.B. wieviele infiziert)
+    -> alpha anpassen
+
+- bei Diagramm problem, weil kein return
